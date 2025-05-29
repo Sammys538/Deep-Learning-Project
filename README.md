@@ -16,4 +16,4 @@ For the project, I contributed to the intial set up and data preparation stages 
 * Jupyter Notebook
 
 # Acknowledgements
-* Big thanks to my other team members in CSC 671 for 
+* Big thanks to my other team members in CSC 671
